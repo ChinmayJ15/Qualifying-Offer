@@ -4,7 +4,7 @@ Following the instructions given, I chose to use R to calculate the Qualifying O
 
 ## Prerequisites
 
-For this question, I chose to use R through the means of RStudio. To run this code, RStudio will be required, which can be found and installed online. I used 2 R libraries, rvest and ggplot2, to assist me with this task. rvest was used to scrape the data off of the given URL and ggplot2 was used to generate the added visuals. IF these packages are not installed, you can install them using these commands on your R terminal:
+For this question, I chose to use R through the means of RStudio. To run this code, RStudio will be required, which can be found and installed online. I used 2 R libraries, rvest and ggplot2, to assist me with this task. rvest was used to scrape the data off of the given URL and ggplot2 was used to generate the added visuals. If these packages are not installed, you can install them using these commands on your R terminal:
 
 ```
 install.packages("rvest")
